@@ -1,0 +1,44 @@
+body {
+    background-color: hsl(47, 88%, 63%);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10%;
+    height: 500px;
+    weight: 100px;
+    display: flex;
+    padding: 20px;
+    box-shadow: black;
+}
+
+.card{
+}
+
+.card-content{
+
+}
+
+.card-learning{
+
+}
+
+.card-published{
+
+}
+
+.card-title{
+    color: hsl(0, 0%, 7%);
+}
+
+.card-text{
+    color: hsl(0, 0%, 42%);
+}
+
+.card-name{
+
+}
